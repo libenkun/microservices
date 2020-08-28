@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/coludparent/cloud-product/cloudproduct.iml" filepath="$PROJECT_DIR$/coludparent/cloud-product/cloudproduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coludparent/cloud-server-eureka/cloudservereureka.iml" filepath="$PROJECT_DIR$/coludparent/cloud-server-eureka/cloudservereureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coludparent/coludparent.iml" filepath="$PROJECT_DIR$/coludparent/coludparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservices.iml" filepath="$PROJECT_DIR$/.idea/microservices.iml" />
+    </modules>
+  </component>
+</project>
